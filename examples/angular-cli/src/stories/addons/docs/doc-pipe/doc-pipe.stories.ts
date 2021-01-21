@@ -1,10 +1,9 @@
 import { DocPipe } from './doc-pipe.pipe';
 
 export default {
-  title: 'DocPipe',
+  title: 'Addons/Docs/DocPipe',
   component: DocPipe,
   parameters: {
-    docs: { iframeHeight: 120 },
     controls: { hideNoControlsWarning: true },
   },
 };

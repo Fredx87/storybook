@@ -1,9 +1,8 @@
 import { DocDirective } from './doc-directive.directive';
 
 export default {
-  title: 'DocDirective',
+  title: 'Addons/Docs/DocDirective',
   component: DocDirective,
-  parameters: { docs: { iframeHeight: 120 } },
 };
 
 const modules = {
